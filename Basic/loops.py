@@ -27,7 +27,6 @@ while enter != 0:
         print('Saindo...')
     elif enter == 2:
         print('Continuando...')
-        sys.exit
     else:
         print('Opção inválida, tente novamente.')
         enter = 1
